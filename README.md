@@ -1,8 +1,8 @@
-﻿# persistence-kit
+# persistence-kit
 
 > Red team post-exploitation tool — authorized use only.
 
-`ash
+```bash
 python persistence_kit.py --help
 ```
 
