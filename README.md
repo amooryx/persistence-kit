@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="persistence-kit" width="800">
+</div>
+
 # persistence-kit
 
 > Red team post-exploitation tool — authorized use only.
